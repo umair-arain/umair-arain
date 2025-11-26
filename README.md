@@ -22,7 +22,7 @@
 - 🧰 Experienced with **VMware, Hyper-V, Veeam Backup, Synology NAS**  
 - 🐍 Automating tasks using **Python & GitHub Actions**  
 - 📈 Building **Scalable, Reliable IT Infrastructure**  
-- 📫 Reach me at **imaumair.tech@gmail.com**   
+- 📫 Reach me at **iamumair.tech@gmail.com**   
 - 🔗 Connect with me on **LinkedIn**: [Muhammad Umair](https://www.linkedin.com/in/umair-it)   
 
 <!-- Tech Stack Header -->
