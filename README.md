@@ -39,11 +39,6 @@
   </a>
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umair5599&theme=dark&show_icons=true&count_private=true" />
-</p>
-
 <!-- Connect with Me Header -->
 <div id="user-content-toc">
   <ul align="center">
