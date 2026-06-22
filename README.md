@@ -35,7 +35,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,py,aws,azure,windows,docker,git,github,vmware,bash,nginx,zabbix,pfsense,cisco,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=linux,py,aws,azure,windows,docker,git,github" />
   </a>
 </p>
 
